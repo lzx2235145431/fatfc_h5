@@ -1,0 +1,1 @@
+<view><view class="new-title">FATFC新闻</view><view class="new"><block wx:for="{{5}}" wx:for-item="i" wx:for-index="__i0__"><view class="new-item"><view class="new-item-pic"><image src="static/new1.jpeg" alt class="_img"></image></view><view class="new-item-content _div">官方 | 姆巴佩加盟FATFC</view></view></block></view></view>
